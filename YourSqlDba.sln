@@ -10,6 +10,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{FC4D9064-17DD-443F-8DB3-A24B3FCA4686}"
 	ProjectSection(SolutionItems) = preProject
 		AutoCeduleAvecBroker.sql = AutoCeduleAvecBroker.sql
+		install_ptf.sql = install_ptf.sql
+		uninstall_ptf.sql = uninstall_ptf.sql
 		VoirResultatsDernièreJobSeulement.sql = VoirResultatsDernièreJobSeulement.sql
 		YourSQLDba_InstallOrUpdateScript.sql = YourSQLDba_InstallOrUpdateScript.sql
 	EndProjectSection
